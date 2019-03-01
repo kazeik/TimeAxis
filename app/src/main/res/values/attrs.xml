@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="markColor" format="color"/>
+    <attr name="scaleColor" format="color"/>
+    <declare-styleable name="TimerShaft">
+
+        <attr name="markColor"/>
+        <attr name="scaleColor"/>
+    </declare-styleable>
+
+</resources>
